@@ -7,6 +7,8 @@ The current book is [The Design of Everyday Things](https://www.goodreads.com/bo
 
 This came up at the office in discussing ["Norman Doors"](https://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/) named after the author, Don Norman.
 
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387770614l/17290807.jpg)
+
 ## Meeting Time & Info
 
 **Time**: 
