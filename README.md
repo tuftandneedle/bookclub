@@ -11,7 +11,7 @@ This came up at the office in discussing ["Norman Doors"](https://99percentinvis
 
 **Time**: 
 
-TBD
+Tuesday, every 2 weeks 12:30PM HQ time
 
 **Details**:
 
