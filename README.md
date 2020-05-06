@@ -13,7 +13,7 @@ This came up at the office in discussing ["Norman Doors"](https://99percentinvis
 
 **Time**: 
 
-Tuesday, every 2 weeks 12:30PM HQ time
+Friday, every 2 weeks 12:30PM HQ time
 
 **Details**:
 
