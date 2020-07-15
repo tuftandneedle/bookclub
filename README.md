@@ -3,9 +3,8 @@
 Our reading agenda can be found in the Issues
 
 ## Currently Reading
-The current book is [The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things) (2013 edition) by cognitive scientist and usability engineer Donald Norman.
+The current book is [Shape Up: Stop Running in Circles and Ship Work that Matters](https://www.goodreads.com/book/show/50776459-shape-up) by [Basecamp's](https://basecamp.com/) Ryan Singer.
 
-This came up at the office in discussing ["Norman Doors"](https://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/) named after the author, Don Norman.
 
 ##### [📚 Our Next Reading Assignment 👀](https://github.com/tuftandneedle/bookclub/issues?q=is%3Aopen+is%3Aissue+label%3Anext)
 
