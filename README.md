@@ -17,4 +17,4 @@ Friday, every 2 weeks 12:30PM HQ time
 
 **Details**:
 
-https://tuftandneedle.zoom.us/j/95414705061?pwd=ZThzZzNGZVYxRlN2QXNkc0NKNlNHdz09
+https://tuftandneedle.zoom.us/j/95414705061
