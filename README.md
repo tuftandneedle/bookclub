@@ -4,16 +4,13 @@ Our reading agenda can be found in the Issues
 
 ## Currently Reading
 
-[99 Bottles of OOP - 2nd Edition](https://sandimetz.com/99bottles) - the purchase contains both Ruby and JS versions.
+[Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 
-And you can expense this! Ask your manager or in **#tn-bookclub** Slack channel.
-
-Extracurricular reading of the author's thoughts on the affordances of Object Oriented thinking and design:
-https://sandimetz.com/blog/2018/21/what-does-oo-afford
+And you can expense this! Ask your manager or in **#eng-bookclub** Slack channel.
 
 ##### [📚 Our Next Reading Assignment 👀](https://github.com/tuftandneedle/bookclub/issues?q=is%3Aopen+is%3Aissue+label%3Anext)
 
-![image](https://user-images.githubusercontent.com/6173/110170971-97dd7d00-7dc0-11eb-802c-82ede3aed956.png)
+![image](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348627451l/44919.jpg)
 
 ## Meeting Time & Info
 
